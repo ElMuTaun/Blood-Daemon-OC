@@ -1,5 +1,5 @@
 
-# Blood Daemon
+# Blood Daemon OC
 **Open Computers program for Blood Altar automation**
 
 ## Features
